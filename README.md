@@ -8,8 +8,8 @@ finger movement, and when the user points at each of the labeled regions of the 
 on side labels), the labels needs to be readout with synthesized speech.
 
 In this task I have approached the statement in two different approaches 
-1. Using existing module-Mediapipe
-2. Building own model to predict the hand movement
+1. Using existing module-Mediapipe(mediapipe.py)
+2. Building own model to predict the hand movement(finaltest_CNN.py)
 
 Using existing module-Mediapipe
 Using the existing module named mediapipe i was able to predict the movement of the hand. When I point my index finger it could move the mouse. For the heart picture I labelled the data using data annotations and fixed the axis with its label. So when I move the cursor with the hand on the heart picture it would produce the label names which produces speaker output with the help of pyttsx3 module.
