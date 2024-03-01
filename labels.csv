@@ -1,0 +1,17 @@
+label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+Vena cava,675,161,133,285,heart-diagram_page-0001.jpg,1754,1241
+Aorta,864,129,216,188,heart-diagram_page-0001.jpg,1754,1241
+Pulmonary artery,898,322,324,83,heart-diagram_page-0001.jpg,1754,1241
+Pulmonary Vein,1114,448,122,120,heart-diagram_page-0001.jpg,1754,1241
+left atruim,923,446,188,191,heart-diagram_page-0001.jpg,1754,1241
+Left Ventricle,967,657,159,221,heart-diagram_page-0001.jpg,1754,1241
+Septum,983,899,168,90,heart-diagram_page-0001.jpg,1754,1241
+Septum,786,961,198,46,heart-diagram_page-0001.jpg,1754,1241
+Septum,1146,800,34,80,heart-diagram_page-0001.jpg,1754,1241
+Septum,1151,653,39,129,heart-diagram_page-0001.jpg,1754,1241
+Septum,735,899,71,39,heart-diagram_page-0001.jpg,1754,1241
+Pulmonary valve,776,483,74,179,heart-diagram_page-0001.jpg,1754,1241
+Right atrium,625,496,97,234,heart-diagram_page-0001.jpg,1754,1241
+Right ventricle,742,699,138,179,heart-diagram_page-0001.jpg,1754,1241
+Descending aorta,965,1030,97,101,heart-diagram_page-0001.jpg,1754,1241
+Inferior vena cava,687,947,78,92,heart-diagram_page-0001.jpg,1754,1241
