@@ -7,6 +7,9 @@ exploring the diagram on the screen with their fingers, the program should be ab
 finger movement, and when the user points at each of the labeled regions of the image (not
 on side labels), the labels needs to be readout with synthesized speech.
 
+
+commit
+
 In this task I have approached the statement in two different approaches 
 1. Using existing module-Mediapipe(mediapipe.py)
 2. Building own model to predict the hand movement(finaltest_CNN.py)
